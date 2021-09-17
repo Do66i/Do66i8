@@ -164,6 +164,15 @@ body {
   color: rgb(40, 49, 58);
 }
 
+.playlist_btn__special-icon {
+  position: absolute;
+  left: 13px;
+  font-size: 19px;
+  z-index: 1;
+  color: rgb(161, 57, 57);
+  opacity: 76%;
+}
+
 .mini-msplayer {
   display: flex;
   justify-content: space-between;
